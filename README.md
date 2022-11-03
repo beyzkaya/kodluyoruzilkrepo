@@ -11,8 +11,8 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
  
-### Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. Her şey için teşekkürlerr. https://www.patika.dev/tr
 
-###License
+## License
 MIT
